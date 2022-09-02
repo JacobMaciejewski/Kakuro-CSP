@@ -1,7 +1,7 @@
 # Kakuro-CSP
 Constraint Satisfaction Problem (CSP) theoretical definition and code implementation for Kakuro Puzzle Game 🧩
 
-## Kakuro Game
+## Kakuro Game:
 
 The canonical [Kakuro puzzle](https://en.wikipedia.org/wiki/Kakuro) is played in a grid of filled and barred cells, **"black"** and **"white"** respectively. Puzzles are usually (`16×16`) in size,
 although these dimensions can vary widely. Apart from the top row and leftmost column which are entirely black, the grid is divided into
